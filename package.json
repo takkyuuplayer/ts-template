@@ -4,7 +4,7 @@
   "description": "TypeScript template repository",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/takkyuuplayer/ts-template/issues"
   },
-  "homepage": "https://github.com/takkyuuplayer/ts-template#readme"
+  "homepage": "https://github.com/takkyuuplayer/ts-template#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "@types/node": "^13.1.4",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.4"
+  }
 }
