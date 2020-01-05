@@ -4,7 +4,7 @@
   "description": "TypeScript template repository",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "npm run test:lint && jest",
     "test:lint": "eslint src/**/*.ts",
     "lint": "eslint --fix src/**/*.ts"
   },
