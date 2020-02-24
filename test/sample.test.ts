@@ -1,4 +1,4 @@
-import { TRAFIC_LIGHT } from "./sample";
+import { TRAFIC_LIGHT } from "../src/sample";
 describe("sample", () => {
   it("should pass", () => {
     expect(1).toBe(1);
