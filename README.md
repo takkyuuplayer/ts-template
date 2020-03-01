@@ -13,7 +13,7 @@ Server-side TypeScript template repository
 2. Test Environment by Jest
    ```
    $ npm i -D jest @types/jest ts-jest
-   $ npx ts-jest --init
+   $ npx ts-jest config:init
    ```
 3. ESLint
 
