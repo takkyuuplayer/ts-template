@@ -20,16 +20,16 @@
   },
   "homepage": "https://github.com/takkyuuplayer/ts-template#readme",
   "devDependencies": {
-    "@types/jest": "^26.0.4",
-    "@types/node": "^14.0.23",
-    "@typescript-eslint/eslint-plugin": "^3.6.1",
-    "@typescript-eslint/parser": "^3.6.1",
-    "eslint": "^7.4.0",
+    "@types/jest": "^26.0.10",
+    "@types/node": "^14.6.0",
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
+    "@typescript-eslint/parser": "^3.10.1",
+    "eslint": "^7.7.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "jest": "^26.1.0",
-    "prettier": "^2.0.5",
-    "ts-jest": "^26.1.2",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.6"
+    "jest": "^26.4.2",
+    "prettier": "^2.1.0",
+    "ts-jest": "^26.2.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
   }
 }
