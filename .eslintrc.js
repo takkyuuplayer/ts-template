@@ -5,8 +5,7 @@ module.exports = {
     },
     "extends": [
         "eslint:recommended",
-        "plugin:@typescript-eslint/eslint-recommended",
-        "pretter"
+        "plugin:@typescript-eslint/eslint-recommended"
     ],
     "globals": {
         "Atomics": "readonly",
