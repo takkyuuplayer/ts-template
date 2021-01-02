@@ -27,6 +27,6 @@ jobs:
       - run: npm build --if-present
 
       - uses: reviewdog/action-setup@v1
-      - run: npm run lint | reviewdog -name=eslint -reporter=github-check
+      - run: npm run lint | reviewdog -f=eslint -reporter=github-check
 
       - run: npm run test

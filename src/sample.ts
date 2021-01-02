@@ -1,5 +1,5 @@
 export enum TRAFIC_LIGHT {
-  RED,
+    RED,
   BLUE,
   GREEN,
 }
