@@ -1,6 +1,7 @@
 # ts-template
 
 ![CI](https://github.com/takkyuuplayer/ts-template/workflows/CI/badge.svg)
+[![codecov](https://codecov.io/gh/takkyuuplayer/ts-template/branch/master/graph/badge.svg?token=UTPSMRQKZ1)](https://codecov.io/gh/takkyuuplayer/ts-template)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 Server-side TypeScript template repository
