@@ -5,9 +5,9 @@ export enum TRAFIC_LIGHT {
 }
 
 export const add = (a: number, b: number) => {
-  return a + b;
-};
+  if (a % 2 == 0) {
+    return a + b;
+  }
 
-export const sub = (a: number, b: number) => {
-  return a - b;
+  return a * b;
 };
