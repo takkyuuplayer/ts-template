@@ -3,3 +3,5 @@ export enum TRAFIC_LIGHT {
   BLUE,
   GREEN,
 }
+
+export const add = (a: number, b: number) => a + b;
