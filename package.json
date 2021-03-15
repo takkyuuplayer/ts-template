@@ -22,7 +22,7 @@
   "homepage": "https://github.com/takkyuuplayer/ts-template#readme",
   "devDependencies": {
     "@types/jest": "^26.0.19",
-    "@types/node": "^14.14.17",
+    "@types/node": "^14.14.34",
     "@typescript-eslint/eslint-plugin": "^4.11.1",
     "@typescript-eslint/parser": "^4.11.1",
     "eslint": "^7.16.0",
