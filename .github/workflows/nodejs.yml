@@ -23,7 +23,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
-      - run: npm build --if-present
 
       - uses: reviewdog/action-setup@v1
       - run: npm run lint | reviewdog -f=eslint -reporter=github-check
